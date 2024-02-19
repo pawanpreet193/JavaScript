@@ -40,4 +40,5 @@ let dict =
 }
 console.log(dict)
 obj.hobby = "coding"         //with this just felt that really javascript is a language that will go beyond limits to run your code
-let x = prompt("Tell your age")
+// let x = prompt("Tell your age")
+console.log(obj)
