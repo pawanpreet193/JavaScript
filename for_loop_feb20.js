@@ -19,3 +19,4 @@ for( let a in obj){                                //This is a for in loop
 for( let b  in obj){                                //This is a for in loop
     console.log("The values of the object are as follows: " + obj[b]);
 }
+console.log("34 + 53 = ", 34+53);
